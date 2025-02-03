@@ -1,7 +1,9 @@
-# Avaliamento-Militar 
+Passei quase dois anos na Marinha do Brasil, um período de muito aprendizado e experiências que levo para a vida toda. Quando entrei no setor de Ciência da Computação do quartel onde servi, finalmente pude colocar em prática todo o conhecimento que já tinha na área de tecnologia. Mas logo percebi que, perto dos mais experientes do setor, ainda tinha muito a aprender.
 
-Documentos que a Marinha do Brasil gerou ao meu respeito, passei quase dois anos de muito aprendizado. Coisas que levo pra vida toda, no momento que entrei no setor de Ciência da computação do Quartel que eu estava servindo, foi onde consegui utilizar todo conhecimento e bagagem que possuía na área de tecnologia, logo após descobri que era bem pouco comparado com os mais "antigos" do setor, mas com muito respeito e curiosidade consegui absorver muita sabedoria das pessoas com quem trabalhei, tenho muito orgulho disso tudo. 
+Com respeito e curiosidade, absorvi ao máximo a sabedoria daqueles com quem trabalhei. Foi um crescimento enorme, tanto profissional quanto pessoal, e tenho muito orgulho disso tudo.
 
-Documento #1: Imediato do quartel que o militar serve, utiliza uma Forma de Avaliação por pontos para avalia-lo. 
+Em relação à minha atuação, existem alguns documentos que a Marinha gerou sobre mim:
 
-Documento #2: Projetos, Cursos, Materiais, Aplicações que o militar exerceu no período que serviu.
+Forma de Avaliação: O imediato do quartel utilizava um sistema de pontuação para avaliar o desempenho dos militares.
+Registros de Atuação: Projetos, cursos, materiais e aplicações nos quais trabalhei durante o período em que servi.
+Cada experiência nesse tempo contribuiu para minha evolução, e sou grato por tudo o que vivi e aprendi.
